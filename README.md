@@ -2,8 +2,8 @@
 
 - 🎓 Lambda School Full Stack Program Graduate
 - :test_tube: Previous psychology/neuroscience research with experience in multi-media and instructional design
-- 🪐 Looking forward to designing elegant, immersive, projects that expand the potential to engage and learn.
-- :speech_balloon: Ask me about full-stack, web, books, moovies, bikes, cameras, art or anything you can think of!
+- 🪐 Looking forward to designing elegant, immersive, projects that expand the potential to engage and teach
+- :speech_balloon: Ask me about books, movies, bikes, cameras, art, design or anything you can think of!
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.michalowski@gmail.com)
