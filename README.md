@@ -22,8 +22,8 @@ const aboutMe = {
    code: [ HTML, CSS, Javascript, Python ],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Less", "Styled Components", "Bootstrap", "Material Design", "Semantic UI", "AntD"]
+         js: ["React" (Create React App, Next.js), "Angular"],
+         css: ["Less", "Sass", "Styled Components", "Reactstrap/Bootstrap", "Material Design", "Semantic UI", "AntD"]
       },
       backEnd: {
          js: ["Node", "Express"],
