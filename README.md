@@ -26,14 +26,14 @@ const aboutMe = {
          css: ["Less", "Sass", "Styled Components", "Reactstrap/Bootstrap", "Material Design", "Semantic UI", "AntD"]
       },
       backEnd: {
-         js: ["Node", "Express"],
-         misc: ["Linux", "Redux", "Cypress"]
+         js: ["Node.js", "Express"],
+         misc: ["Linux", "Redux", "Cypress", "Strapi"]
       },
       databases: ["Postgress", "mySQL", "SQLServer"],
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["English Teacher, IT/Tech Specialist, Freelance Web Designer"],
-   challenge: "I'm currently learning more Java, mongoDB, typescript/angular, and C++"
+   challenge: "I'm currently learning more Java, C++, typescript/angular, mongoDB"
 };
 ```
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
