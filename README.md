@@ -22,18 +22,17 @@ const aboutMe = {
    code: [ HTML, CSS, Javascript, Python ],
    technologies: {
       frontEnd: {
-         js: ["React" (Create React App, Next.js), "Angular"],
+         js: ["React" (Create React App, Next.js)],
          css: ["Less", "Sass", "Styled Components", "Reactstrap/Bootstrap", "Material Design", "Semantic UI", "AntD"]
       },
       backEnd: {
          js: ["Node.js", "Express"],
          misc: ["Linux", "Redux", "Cypress", "Strapi"]
       },
-      databases: ["Postgress", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["Postgres", "mySQL", "SQLServer"],
    },
    currentOccupation: ["English Teacher, IT/Tech Specialist, Freelance Web Designer"],
-   challenge: "I'm currently learning more Java, C++, typescript/angular, mongoDB"
+   challenge: "I'm currently learning more Java, C++, Typescript/Angular, MongoDB"
 };
 ```
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
