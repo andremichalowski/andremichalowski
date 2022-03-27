@@ -31,7 +31,7 @@ const aboutMe = {
       },
       databases: ["Postgres", "mySQL", "SQLServer"],
    },
-   currentOccupation: ["English Teacher, IT/Tech Specialist, Freelance Web Designer"],
+   currentOccupation: ["Web developer for Survivorplan.io and Programming instructor for nuCamp"],
    challenge: "I'm currently learning more Java, C++, Typescript/Angular, MongoDB"
 };
 ```
